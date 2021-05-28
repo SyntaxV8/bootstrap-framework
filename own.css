@@ -1,0 +1,27 @@
+img {
+    height: 100px;
+    width: 100px!important;
+    object-fit: cover;
+    margin-left: calc(50% - 50px);
+    margin-top: 20px;
+}
+.heightie {
+    height: 75px;
+}
+
+.button5 {
+    border: 0 solid white !important;
+    border-radius: 100px !important;
+}
+
+.body1 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    background-color: #3dd5f3;
+}
